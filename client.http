@@ -1,0 +1,12 @@
+### 요청 예시 1
+POST localhost:8080/api/v3/~~
+Content-Type: application/json
+
+{
+  "name": "name",
+  "age": 20
+}
+
+### 요청 예시 2
+GET localhost:8083/api/v3/~~
+Content-Type: application/json
